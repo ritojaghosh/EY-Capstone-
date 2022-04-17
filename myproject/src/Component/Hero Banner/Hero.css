@@ -1,0 +1,80 @@
+.hero-banner {
+    min-height: 60vh;
+    padding: 0 5rem;
+    width: auto;
+    background-color: #FFF3E7;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+.hero-banner-text {
+    width: 50%;
+    height: 100%;
+    color: #474646;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-banner-text h1 {
+    width: 100%;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+
+.hero-banner-text p{
+    margin: 2rem 0;
+    font-size: 1.2rem;
+}
+
+.shopnow-container {
+    margin: 1.2rem 0;
+}
+
+.shopnow-btn {
+    padding: 1rem 2.4rem;
+    background-color: #FE8B0C;
+    color: #f5f5f5 !important;
+    border: none;
+    outline: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+.shopnow-btn .arrow{
+    margin-left: 0.5rem;
+    transform: translateX(-1000%);
+    transition: 400ms all;
+}
+
+.shopnow-btn:hover .arrow{
+    transform: translateX(0%);
+}
+
+.shopnow-btn:hover a{
+    text-decoration: none;
+    color: white;
+}
+
+.shopnow-btn a {
+    text-decoration: none;
+}
+
+.hero-banner-image-container {
+    width: 50%;
+    position: absolute;
+    right: -10%;
+}
+
+.hero-banner-image {
+    display: block;
+    height: 520px;
+    /* width: 60%; */
+}

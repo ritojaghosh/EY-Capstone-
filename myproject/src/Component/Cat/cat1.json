@@ -1,0 +1,52 @@
+{
+  "data": [
+      {
+          "breed": "Persian",
+          "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/220px-White_Persian_Cat.jpg",
+          "name": "Ted",
+          "age": "4 months",
+          "id": "1",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      },
+      {
+          "breed": "Munchkin cat",
+          "imgURL": "https://i0.wp.com/www.justagric.com/wp-content/uploads/2022/01/how-much-do-munchkin-cats-weigh.jpg?fit=1024%2C1024&ssl=1",
+          "name": "Lucy",
+          "age": "5 months",
+          "id": "2",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      },
+      {
+          "breed": "Exoctic Shorthair",
+          "imgURL": "https://www.thehappycatsite.com/wp-content/uploads/2017/09/Exotic-Shorthair-Cats-HC-long.jpg",
+          "name": "Evie",
+          "age": "4 months",
+          "id": "3",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      },
+      {
+          "breed": "Ragdoll",
+          "imgURL": "https://images.unsplash.com/photo-1586289883499-f11d28aaf52f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFnZG9sbCUyMGNhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+          "name": "Nala",
+          "age": "6 months",
+          "id": "4",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      },
+      {
+          "breed": "Siberian Cat",
+          "imgURL": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
+          "name": "Max",
+          "age": "6 months",
+          "id": "5",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      },
+      {
+          "breed": "Siberian Husky",
+          "imgURL": "https://images.unsplash.com/photo-1566903697359-6f8ee1c1ab20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80",
+          "name": "Lucy",
+          "age": "6 months",
+          "id": "6",
+          "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+      }
+  ]
+}  

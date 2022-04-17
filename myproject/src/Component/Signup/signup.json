@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "fname": "Kaulik",
+      "lname": "Ghosh",
+      "email": "kaulik01ghosh@gmail.com",
+      "role": "user",
+      "pass": "1234",
+      "createdAt": "2022-04-17T15:05:10.808Z",
+      "cartItems": [],
+      "id": 1,
+      "isLoggedIn": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "category": "Products",
+      "breedOrProductName": "Drools puppy Initiative tangy flavour",
+      "aboutMe": "552gms",
+      "price": "15.00",
+      "image": "https://m.media-amazon.com/images/I/71xCoqZkdkL._SL1500_.jpg",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "category": "Products",
+      "breedOrProductName": "Coffee coloured round bowl (Miro-oven usable)",
+      "aboutMe": "Hard Plastic",
+      "price": "09.62",
+      "image": "https://www.purina.com/sites/g/files/auxxlc196/files/styles/kraken_generic_max_width_360/public/How-can-I-choose-the-right-dish-for-feeding-time_hero_2.jpg?itok=wABv-iMr",
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "category": "Products",
+      "breedOrProductName": "Pedigree Vital nutrients dried and packed",
+      "aboutMe": "2.5kgs",
+      "price": "69.80",
+      "image": "https://tiimg.tistatic.com/fp/1/007/167/pedigree-active-adult-dog-food-10-kg-305.jpg",
+      "quantity": 1,
+      "id": 3
+    }
+  ],
+  "dogs": [
+    {
+      "category": "Dogs",
+      "breedOrProductName": "Beagle",
+      "aboutMe": "3 months",
+      "price": "45.00",
+      "image": "https://cdn.pixabay.com/photo/2020/06/01/11/19/puppy-5246297__340.jpg",
+      "quantity": 1,
+      "nameOfAnimal": "Sam",
+      "desc": "Do you know?? I love to play with balls, just like you see me doing",
+      "id": 1
+    }
+  ],
+  "cats": []
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "breed": "Beagle",
+            "imgURL": "https://cdn.pixabay.com/photo/2020/06/01/11/19/puppy-5246297__340.jpg",
+            "name": "Dew",
+            "age": "6 months",
+            "id": "1",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        },
+        {
+            "breed": "Golden Retriever",
+            "imgURL": "https://images.unsplash.com/photo-1614339548353-d8e9e871ad43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGdvbGRlbiUyMHJldHJpZXZlciUyMHB1cHB5fGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "name": "Tommy",
+            "age": "9 months",
+            "id": "2",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        },
+        {
+            "breed": "Pug",
+            "imgURL": "https://kookypugs.com/wp-content/uploads/Puppy-on-Deck-1024x1024.jpg",
+            "name": "Pluto",
+            "age": "5 months",
+            "id": "3",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        },
+        {
+            "breed": "Poodle",
+            "imgURL": "https://images.unsplash.com/photo-1605244863941-3a3ed921c60d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9vZGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "name": "Nala",
+            "age": "6 months",
+            "id": "4",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        },
+        {
+            "breed": "Rottweiler",
+            "imgURL": "https://images.unsplash.com/photo-1643811356771-dc2c1a53e235?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHJvdHR3ZWlsZXJ8ZW58MHx8MHx8&w=1000&q=80",
+            "name": "Max",
+            "age": "6 months",
+            "id": "5",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        },
+        {
+            "breed": "Siberian Husky",
+            "imgURL": "https://images.unsplash.com/photo-1566903697359-6f8ee1c1ab20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=714&q=80",
+            "name": "Lucy",
+            "age": "6 months",
+            "id": "6",
+            "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, aspernatur"
+        }
+    ]
+}
